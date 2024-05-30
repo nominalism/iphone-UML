@@ -1,3 +1,6 @@
+
+
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar()
